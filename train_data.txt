@@ -1,0 +1,500 @@
+Rose 't Hooft	50	North Dakota	Folsom	smoking
+Xin Jackson	31	New York	Fort Bragg	non-smoking
+Xin Smith	49	California	Fullerton	smoking
+Xin Jackson	50	Alaska	Fairfield	smoking
+Xin Mellian	30	New York	Fairfield	smoking
+Rose Mellian	26	North Dakota	Fullerton	non-smoking
+Xin 't Hooft	42	North Dakota	Fallbrook	smoking
+Xin Liu	22	Missouri	Fountain Valley	non-smoking
+Marius Rajpurkar	17	Wyoming	Fountain Valley	non-smoking
+Emily Smith	34	North Dakota	Foster City	non-smoking
+John Liu	18	New York	Fullerton	non-smoking
+Pranav Mellian	41	Wyoming	Fillmore	smoking
+Rose Rajpurkar	39	Wyoming	Fremont	smoking
+John Jackson	33	North Dakota	Fullerton	smoking
+Rose Liu	29	Wyoming	Fountain Valley	non-smoking
+Rose Jackson	33	California	Fish Camp	non-smoking
+Rose Rajpurkar	42	Wyoming	Fullerton	smoking
+Emily Mellian	26	Missouri	Fairfield	non-smoking
+Xin Mellian	28	California	Fillmore	non-smoking
+Anthony 't Hooft	28	Alaska	Fort Bragg	non-smoking
+Emily Rajpurkar	23	California	Fountain Valley	non-smoking
+Xiaofeng 't Hooft	19	New York	Foothill Ranch	non-smoking
+Emily Smith	15	North Dakota	Fremont	non-smoking
+Emily Mellian	37	Wyoming	Fairfield	smoking
+Xin Liu	25	New York	Fort Bragg	non-smoking
+Marius 't Hooft	34	Wyoming	Fortuna	non-smoking
+Xin Jackson	28	California	Fullerton	non-smoking
+Xin Rajpurkar	33	New York	Fullerton	non-smoking
+Xin Smith	40	New York	Fortuna	smoking
+Xiaofeng 't Hooft	44	Alaska	Foster City	smoking
+Emily Xiao	22	Missouri	Fremont	non-smoking
+Rose Smith	32	North Dakota	Fairfield	non-smoking
+Anthony Liu	33	Wyoming	Fullerton	non-smoking
+Xiaofeng Rajpurkar	37	New York	Fair Oaks	non-smoking
+John Xiao	43	California	Foothill Ranch	smoking
+Ellie Jackson	45	Alaska	Fowler	smoking
+Ellie Rajpurkar	39	Missouri	Fish Camp	smoking
+Rose Jackson	31	Wyoming	Fresno	non-smoking
+Dorothy Liu	50	California	Fremont	smoking
+John Mellian	39	New York	Fremont	non-smoking
+Rose Mellian	21	North Dakota	Fallbrook	non-smoking
+Rose Xiao	25	New York	Fillmore	non-smoking
+Xiaofeng Jackson	48	Wyoming	Firebaugh	smoking
+Dorothy Jackson	35	Wyoming	Foothill Ranch	smoking
+Dorothy Rajpurkar	32	Wyoming	Fremont	non-smoking
+Emily Liu	50	California	Fountain Valley	smoking
+Dorothy Mellian	42	Wyoming	Foothill Ranch	smoking
+Xin Smith	48	New York	Fountain Valley	smoking
+Emily Liu	29	Wyoming	Fresno	non-smoking
+Xin Mellian	24	Alaska	Firebaugh	non-smoking
+Xiaofeng Smith	49	California	Foothill Ranch	smoking
+Anthony Jackson	46	North Dakota	Fillmore	smoking
+Dorothy Xiao	37	North Dakota	Folsom	smoking
+Xiaofeng 't Hooft	38	Alaska	Fresno	non-smoking
+Emily 't Hooft	40	Alaska	Foothill Ranch	smoking
+Rose Rajpurkar	42	Missouri	Fish Camp	smoking
+Dorothy Xiao	33	North Dakota	Fillmore	non-smoking
+Emily Smith	21	North Dakota	Fowler	non-smoking
+Anthony Xiao	29	Alaska	Firebaugh	smoking
+Xin Smith	44	Alaska	Fort Bragg	smoking
+Anthony Xiao	18	Missouri	Fresno	non-smoking
+Dorothy Liu	40	Wyoming	Fallbrook	smoking
+Emily Smith	50	New York	Fallbrook	smoking
+Xiaofeng Xiao	16	Missouri	Fallbrook	non-smoking
+Rose Liu	37	North Dakota	Fresno	non-smoking
+Marius Jackson	20	Alaska	Fillmore	non-smoking
+Pranav 't Hooft	41	Alaska	Fish Camp	smoking
+John Smith	23	North Dakota	Fort Bragg	non-smoking
+Rose 't Hooft	24	New York	Fountain Valley	smoking
+Anthony Liu	46	New York	Fortuna	smoking
+Emily Xiao	47	California	Fountain Valley	smoking
+Ellie Rajpurkar	35	Missouri	Fort Bragg	smoking
+Dorothy Rajpurkar	25	North Dakota	Fallbrook	non-smoking
+Pranav Jackson	18	New York	Fountain Valley	non-smoking
+Ellie Smith	25	California	Fresno	non-smoking
+Xin Jackson	15	Alaska	Fresno	non-smoking
+Xiaofeng Rajpurkar	38	Missouri	Fair Oaks	smoking
+Emily Liu	26	North Dakota	Firebaugh	non-smoking
+Pranav Smith	50	New York	Fountain Valley	smoking
+Rose Liu	26	California	Fresno	non-smoking
+Emily Xiao	49	Alaska	Fremont	smoking
+Marius Rajpurkar	42	California	Fortuna	smoking
+Xiaofeng Jackson	38	Alaska	Fair Oaks	non-smoking
+Xin Smith	19	Wyoming	Fresno	non-smoking
+Anthony Mellian	40	North Dakota	Fortuna	smoking
+Xin Smith	20	Wyoming	Fortuna	non-smoking
+Ellie Mellian	26	Missouri	Fontana	smoking
+Anthony Xiao	21	New York	Fort Bragg	non-smoking
+Dorothy Liu	16	California	Fortuna	non-smoking
+Dorothy Rajpurkar	29	Wyoming	Foothill Ranch	non-smoking
+Anthony Smith	38	California	Fish Camp	smoking
+Pranav Jackson	43	Missouri	Fairfield	smoking
+Dorothy Rajpurkar	34	North Dakota	Fullerton	non-smoking
+Ellie Xiao	24	Alaska	Fort Bragg	non-smoking
+Pranav Smith	40	North Dakota	Fairfield	smoking
+Marius Smith	33	Missouri	Fair Oaks	smoking
+Emily Xiao	38	North Dakota	Folsom	smoking
+Dorothy Xiao	29	New York	Fair Oaks	non-smoking
+Dorothy Jackson	32	Wyoming	Fremont	non-smoking
+Xin 't Hooft	47	Missouri	Fowler	non-smoking
+Ellie Jackson	28	Wyoming	Fontana	non-smoking
+Anthony 't Hooft	38	North Dakota	Fullerton	smoking
+John Smith	36	North Dakota	Fort Bragg	non-smoking
+Rose Mellian	46	California	Fontana	smoking
+Xin Liu	44	Alaska	Fowler	smoking
+Rose Jackson	31	North Dakota	Fair Oaks	non-smoking
+Xiaofeng 't Hooft	15	Missouri	Foothill Ranch	non-smoking
+Xiaofeng Rajpurkar	47	Missouri	Fillmore	smoking
+John Smith	37	Alaska	Fort Bragg	smoking
+John 't Hooft	24	Alaska	Foothill Ranch	non-smoking
+Marius 't Hooft	47	New York	Firebaugh	smoking
+Xiaofeng 't Hooft	21	Wyoming	Fallbrook	smoking
+Rose Smith	26	Alaska	Fountain Valley	non-smoking
+Ellie Rajpurkar	41	Missouri	Folsom	smoking
+Marius Smith	44	California	Fish Camp	smoking
+John Rajpurkar	42	California	Folsom	smoking
+Emily Mellian	36	Missouri	Fillmore	non-smoking
+Anthony Smith	30	California	Folsom	non-smoking
+Emily Mellian	39	California	Foster City	smoking
+Pranav Rajpurkar	15	California	Fish Camp	non-smoking
+John Rajpurkar	30	New York	Fairfield	non-smoking
+Ellie Liu	44	Alaska	Fish Camp	smoking
+Emily 't Hooft	23	North Dakota	Fairfield	non-smoking
+Xiaofeng Mellian	25	Alaska	Foster City	smoking
+Xin Mellian	25	Wyoming	Fremont	non-smoking
+Rose Jackson	20	California	Fish Camp	non-smoking
+Dorothy Smith	27	California	Fallbrook	non-smoking
+Xiaofeng 't Hooft	40	Alaska	Fortuna	non-smoking
+Pranav 't Hooft	37	Missouri	Folsom	non-smoking
+Dorothy Rajpurkar	47	Wyoming	Fremont	smoking
+Pranav Jackson	48	Wyoming	Fullerton	smoking
+Dorothy 't Hooft	19	Wyoming	Fair Oaks	non-smoking
+Anthony Smith	37	California	Fountain Valley	smoking
+Emily Xiao	43	California	Firebaugh	smoking
+Anthony Mellian	38	New York	Folsom	non-smoking
+Emily 't Hooft	32	California	Fairfield	smoking
+Marius Xiao	34	New York	Folsom	non-smoking
+Pranav Rajpurkar	44	California	Foothill Ranch	smoking
+Xin Jackson	44	Missouri	Fortuna	smoking
+Emily Liu	34	Missouri	Firebaugh	smoking
+Pranav Liu	35	North Dakota	Foster City	non-smoking
+John 't Hooft	47	California	Firebaugh	smoking
+Anthony Mellian	19	North Dakota	Fillmore	non-smoking
+Ellie Jackson	38	Alaska	Fontana	smoking
+Rose Smith	28	Wyoming	Fairfield	non-smoking
+Anthony Liu	45	California	Fortuna	smoking
+Marius Smith	24	New York	Folsom	non-smoking
+Anthony Jackson	37	North Dakota	Fairfield	smoking
+Anthony Mellian	18	Alaska	Folsom	smoking
+Rose Mellian	16	California	Fort Bragg	non-smoking
+Anthony Xiao	27	North Dakota	Fortuna	non-smoking
+Dorothy Mellian	32	North Dakota	Fullerton	smoking
+Rose Liu	34	California	Fort Bragg	non-smoking
+Xin Xiao	16	Missouri	Fountain Valley	non-smoking
+John Liu	35	California	Folsom	smoking
+John Rajpurkar	26	New York	Fort Bragg	non-smoking
+Xiaofeng 't Hooft	24	Missouri	Fort Bragg	smoking
+Xin Liu	23	New York	Fair Oaks	smoking
+Pranav Mellian	33	Wyoming	Fortuna	smoking
+Emily Liu	48	California	Folsom	smoking
+Marius Jackson	28	New York	Fontana	non-smoking
+Dorothy Rajpurkar	39	North Dakota	Fillmore	smoking
+Ellie Jackson	43	Missouri	Fairfield	smoking
+Ellie Xiao	40	North Dakota	Foothill Ranch	non-smoking
+John Rajpurkar	18	Wyoming	Fontana	non-smoking
+Emily Xiao	32	Alaska	Fairfield	smoking
+Dorothy Xiao	37	California	Folsom	non-smoking
+Emily Xiao	31	California	Fort Bragg	smoking
+Dorothy Jackson	30	Alaska	Fullerton	non-smoking
+Ellie Mellian	16	Missouri	Fowler	non-smoking
+Ellie Mellian	45	North Dakota	Fair Oaks	smoking
+Anthony Xiao	50	Missouri	Firebaugh	smoking
+Xin Mellian	34	New York	Fairfield	smoking
+Ellie 't Hooft	17	Alaska	Fair Oaks	non-smoking
+Xiaofeng Rajpurkar	42	New York	Foster City	non-smoking
+Xin 't Hooft	24	Missouri	Fallbrook	non-smoking
+Ellie Jackson	46	North Dakota	Fort Bragg	smoking
+Xin Jackson	37	North Dakota	Fillmore	smoking
+Anthony Jackson	25	North Dakota	Fullerton	non-smoking
+John Mellian	39	New York	Fountain Valley	smoking
+Emily Smith	35	Wyoming	Fowler	smoking
+Anthony Liu	15	Wyoming	Fillmore	non-smoking
+Xiaofeng Xiao	43	New York	Fairfield	smoking
+Xin Mellian	43	Missouri	Fort Bragg	smoking
+Marius Mellian	28	California	Fullerton	non-smoking
+Anthony Liu	33	New York	Folsom	smoking
+Rose Liu	18	New York	Fort Bragg	non-smoking
+Pranav Mellian	49	New York	Fish Camp	smoking
+Rose Mellian	42	Missouri	Fowler	smoking
+Xin Smith	40	Wyoming	Foothill Ranch	smoking
+Rose Mellian	18	Wyoming	Fremont	smoking
+Xin Rajpurkar	28	Wyoming	Fountain Valley	non-smoking
+Ellie Smith	33	California	Fremont	non-smoking
+Rose 't Hooft	41	Alaska	Fallbrook	smoking
+Xiaofeng 't Hooft	40	Alaska	Foothill Ranch	smoking
+Xiaofeng 't Hooft	35	North Dakota	Firebaugh	non-smoking
+Pranav Rajpurkar	47	California	Fremont	smoking
+Xiaofeng 't Hooft	42	Alaska	Fontana	smoking
+Marius Smith	50	North Dakota	Fair Oaks	smoking
+Emily Rajpurkar	21	Missouri	Fontana	non-smoking
+Dorothy Smith	43	North Dakota	Fairfield	smoking
+Emily Rajpurkar	37	Missouri	Fillmore	non-smoking
+Xiaofeng Liu	26	North Dakota	Firebaugh	non-smoking
+Marius 't Hooft	20	North Dakota	Fresno	non-smoking
+Anthony 't Hooft	32	North Dakota	Fountain Valley	non-smoking
+John Xiao	42	California	Fillmore	smoking
+Pranav Xiao	44	California	Fair Oaks	non-smoking
+Anthony Jackson	17	New York	Folsom	non-smoking
+Marius 't Hooft	21	Alaska	Fallbrook	non-smoking
+Pranav 't Hooft	42	Missouri	Fortuna	smoking
+Pranav Liu	30	Missouri	Fowler	smoking
+Anthony Rajpurkar	37	California	Fullerton	smoking
+John Rajpurkar	28	Wyoming	Fairfield	non-smoking
+Pranav Rajpurkar	40	New York	Foster City	smoking
+Pranav Jackson	25	Wyoming	Folsom	non-smoking
+Ellie 't Hooft	28	Wyoming	Fallbrook	smoking
+Ellie Xiao	42	California	Firebaugh	smoking
+John Jackson	34	California	Fontana	smoking
+Ellie Liu	31	Wyoming	Fontana	non-smoking
+Xin Xiao	50	California	Fortuna	smoking
+Ellie 't Hooft	34	North Dakota	Firebaugh	smoking
+Rose Xiao	36	Missouri	Fallbrook	smoking
+Xin 't Hooft	31	North Dakota	Fish Camp	non-smoking
+Pranav Xiao	18	New York	Fresno	non-smoking
+Ellie Rajpurkar	37	California	Folsom	non-smoking
+Xiaofeng 't Hooft	50	California	Fillmore	smoking
+Dorothy 't Hooft	33	New York	Folsom	non-smoking
+Pranav Smith	29	Missouri	Fairfield	non-smoking
+Anthony Smith	21	Missouri	Fort Bragg	non-smoking
+John 't Hooft	44	California	Fullerton	non-smoking
+Marius 't Hooft	32	North Dakota	Fallbrook	non-smoking
+Emily Xiao	38	New York	Fair Oaks	non-smoking
+Pranav 't Hooft	47	Wyoming	Fish Camp	smoking
+Emily Smith	26	Wyoming	Firebaugh	non-smoking
+Emily Xiao	43	Missouri	Fairfield	smoking
+Emily Liu	19	North Dakota	Folsom	non-smoking
+Xiaofeng Mellian	39	California	Fallbrook	non-smoking
+Dorothy Rajpurkar	43	Wyoming	Fullerton	smoking
+Rose Xiao	47	California	Firebaugh	smoking
+Emily Liu	35	New York	Fremont	non-smoking
+Xin 't Hooft	16	Wyoming	Fresno	non-smoking
+Pranav Liu	44	Wyoming	Fountain Valley	smoking
+Emily 't Hooft	44	New York	Fallbrook	smoking
+John Smith	26	Missouri	Fowler	non-smoking
+Marius Xiao	32	New York	Fremont	non-smoking
+Xin Xiao	33	Alaska	Fairfield	non-smoking
+Xin Xiao	24	New York	Fresno	non-smoking
+Marius 't Hooft	45	Wyoming	Fountain Valley	non-smoking
+Emily Rajpurkar	40	Wyoming	Fallbrook	smoking
+Ellie Xiao	18	California	Fairfield	non-smoking
+John Rajpurkar	45	Wyoming	Foothill Ranch	smoking
+Emily Jackson	48	Missouri	Fullerton	smoking
+Xiaofeng Smith	33	Alaska	Fontana	smoking
+Pranav Jackson	15	North Dakota	Fremont	non-smoking
+Pranav Smith	17	Wyoming	Fillmore	non-smoking
+Pranav 't Hooft	17	California	Fort Bragg	non-smoking
+Xiaofeng Xiao	46	New York	Fontana	smoking
+Xiaofeng Mellian	21	New York	Fortuna	non-smoking
+Pranav 't Hooft	33	North Dakota	Firebaugh	non-smoking
+Rose 't Hooft	37	New York	Firebaugh	smoking
+Dorothy Jackson	48	New York	Fallbrook	smoking
+Ellie Jackson	37	Wyoming	Fillmore	smoking
+Anthony 't Hooft	23	Wyoming	Fountain Valley	non-smoking
+Xiaofeng Liu	37	New York	Fountain Valley	smoking
+Xiaofeng Xiao	31	Wyoming	Folsom	smoking
+Emily Smith	29	Wyoming	Fresno	smoking
+Dorothy Smith	40	Missouri	Fullerton	smoking
+Xiaofeng Smith	18	California	Fort Bragg	non-smoking
+Pranav Mellian	44	California	Fillmore	smoking
+Xin Jackson	40	New York	Fontana	smoking
+Dorothy 't Hooft	27	New York	Firebaugh	non-smoking
+Ellie Liu	38	Missouri	Foster City	smoking
+Emily Mellian	15	California	Fort Bragg	non-smoking
+Anthony Smith	33	New York	Fortuna	smoking
+Marius Mellian	37	Wyoming	Fair Oaks	non-smoking
+Pranav Xiao	28	New York	Fair Oaks	non-smoking
+Dorothy Smith	24	Alaska	Folsom	smoking
+Xin Jackson	42	California	Firebaugh	smoking
+Pranav Rajpurkar	49	Wyoming	Foothill Ranch	smoking
+Emily Liu	47	New York	Fresno	smoking
+John 't Hooft	16	California	Fortuna	non-smoking
+Ellie 't Hooft	35	Wyoming	Fontana	smoking
+Pranav Liu	15	North Dakota	Fountain Valley	non-smoking
+Marius Mellian	26	Alaska	Fowler	non-smoking
+Xiaofeng 't Hooft	25	Wyoming	Fowler	smoking
+Dorothy Rajpurkar	15	Alaska	Fortuna	non-smoking
+John 't Hooft	17	North Dakota	Fallbrook	non-smoking
+Ellie Liu	22	New York	Fort Bragg	non-smoking
+Xin Jackson	32	Missouri	Fallbrook	non-smoking
+John Smith	21	New York	Fillmore	non-smoking
+Dorothy Mellian	45	California	Fontana	smoking
+Marius Liu	17	California	Fortuna	non-smoking
+Pranav Jackson	18	New York	Fremont	non-smoking
+Ellie Rajpurkar	24	New York	Fair Oaks	non-smoking
+Marius Mellian	38	North Dakota	Fortuna	smoking
+Dorothy Liu	38	Missouri	Fallbrook	smoking
+John Liu	34	Missouri	Fresno	non-smoking
+Xiaofeng Liu	16	New York	Fallbrook	non-smoking
+Anthony Liu	28	Missouri	Fallbrook	non-smoking
+Rose Smith	34	Wyoming	Fortuna	non-smoking
+John Rajpurkar	41	New York	Fair Oaks	smoking
+Marius Mellian	50	North Dakota	Fountain Valley	smoking
+Pranav Smith	34	Alaska	Fullerton	smoking
+Emily Rajpurkar	46	California	Foothill Ranch	smoking
+Ellie Liu	24	New York	Fowler	non-smoking
+Anthony Mellian	39	Wyoming	Fairfield	smoking
+Emily Xiao	50	New York	Fish Camp	smoking
+Xin Liu	48	Wyoming	Fontana	smoking
+Xin Jackson	25	Missouri	Fremont	non-smoking
+Xin Jackson	30	Wyoming	Fowler	non-smoking
+Pranav Rajpurkar	24	North Dakota	Fort Bragg	smoking
+Xiaofeng Smith	47	Alaska	Firebaugh	smoking
+Dorothy Jackson	16	Missouri	Fowler	non-smoking
+Marius Smith	31	Missouri	Fallbrook	non-smoking
+Marius Jackson	26	Alaska	Fontana	non-smoking
+Rose Rajpurkar	40	California	Fountain Valley	smoking
+Emily Liu	27	Alaska	Fish Camp	smoking
+Pranav Xiao	39	North Dakota	Folsom	smoking
+Anthony 't Hooft	43	North Dakota	Folsom	smoking
+Marius Smith	35	Missouri	Firebaugh	smoking
+Dorothy Liu	40	Alaska	Firebaugh	smoking
+Anthony Smith	28	New York	Fontana	non-smoking
+Dorothy Smith	31	North Dakota	Fillmore	non-smoking
+Emily 't Hooft	49	New York	Fallbrook	smoking
+Emily Mellian	38	California	Fish Camp	non-smoking
+Pranav Xiao	34	Wyoming	Firebaugh	non-smoking
+Rose Jackson	21	New York	Fort Bragg	non-smoking
+Pranav Liu	46	Alaska	Fort Bragg	smoking
+John Smith	45	North Dakota	Fresno	smoking
+Dorothy 't Hooft	21	North Dakota	Fair Oaks	non-smoking
+John Jackson	31	Wyoming	Fortuna	smoking
+Anthony Smith	16	Wyoming	Fair Oaks	non-smoking
+Ellie Rajpurkar	31	North Dakota	Fillmore	non-smoking
+Dorothy Rajpurkar	19	California	Fair Oaks	non-smoking
+Marius Rajpurkar	44	California	Fallbrook	smoking
+Dorothy 't Hooft	39	New York	Fremont	smoking
+Xin Mellian	19	California	Fortuna	non-smoking
+Xin Mellian	49	New York	Fair Oaks	smoking
+Ellie 't Hooft	39	New York	Fort Bragg	non-smoking
+Xiaofeng Smith	33	Wyoming	Fortuna	non-smoking
+Xiaofeng Mellian	40	Wyoming	Fallbrook	smoking
+Dorothy Rajpurkar	24	California	Fortuna	non-smoking
+Anthony Xiao	19	New York	Fontana	non-smoking
+John Rajpurkar	39	North Dakota	Fowler	non-smoking
+Xin Xiao	17	Alaska	Fremont	non-smoking
+Dorothy Jackson	48	New York	Fairfield	smoking
+Rose Mellian	18	Missouri	Fillmore	non-smoking
+Dorothy Xiao	43	North Dakota	Fontana	smoking
+Rose Smith	31	North Dakota	Firebaugh	non-smoking
+Marius Mellian	20	Missouri	Foothill Ranch	non-smoking
+Xiaofeng 't Hooft	49	North Dakota	Fair Oaks	smoking
+Anthony Jackson	15	Missouri	Fountain Valley	non-smoking
+Rose Rajpurkar	44	California	Fillmore	non-smoking
+Anthony Smith	37	Wyoming	Fillmore	smoking
+Xiaofeng 't Hooft	18	Wyoming	Fairfield	non-smoking
+Emily Jackson	31	Alaska	Fair Oaks	non-smoking
+Xin Liu	40	Wyoming	Fillmore	non-smoking
+Rose Smith	42	Missouri	Fresno	smoking
+Dorothy Liu	22	Missouri	Fort Bragg	non-smoking
+Anthony Xiao	31	Missouri	Fallbrook	smoking
+John Rajpurkar	31	Missouri	Fairfield	smoking
+Rose Rajpurkar	20	Missouri	Fresno	smoking
+Xiaofeng Mellian	28	Wyoming	Fairfield	smoking
+Pranav Xiao	15	California	Fortuna	non-smoking
+Ellie Rajpurkar	42	New York	Fallbrook	smoking
+Rose Smith	28	North Dakota	Fowler	smoking
+Ellie Rajpurkar	30	New York	Fortuna	non-smoking
+Rose Jackson	24	California	Firebaugh	non-smoking
+John 't Hooft	19	Alaska	Fort Bragg	non-smoking
+Rose Rajpurkar	35	Alaska	Firebaugh	smoking
+Xin 't Hooft	40	Alaska	Fullerton	smoking
+John Mellian	37	Missouri	Foothill Ranch	smoking
+Xin Smith	18	North Dakota	Foster City	non-smoking
+Ellie 't Hooft	44	Missouri	Foster City	smoking
+Rose 't Hooft	15	Missouri	Foster City	non-smoking
+Ellie 't Hooft	49	North Dakota	Firebaugh	smoking
+Rose Jackson	23	Missouri	Foster City	non-smoking
+John Smith	44	North Dakota	Fontana	smoking
+Marius Liu	41	New York	Fort Bragg	smoking
+Rose 't Hooft	45	California	Fallbrook	non-smoking
+Anthony Xiao	46	New York	Fillmore	smoking
+Dorothy Mellian	18	Alaska	Foster City	smoking
+Marius Jackson	19	Missouri	Fallbrook	non-smoking
+Anthony Mellian	32	North Dakota	Fort Bragg	smoking
+Dorothy 't Hooft	26	North Dakota	Fremont	non-smoking
+Marius Mellian	31	Alaska	Fortuna	non-smoking
+Pranav Xiao	45	Alaska	Fair Oaks	smoking
+Dorothy Rajpurkar	41	North Dakota	Fullerton	smoking
+John Smith	16	Alaska	Fallbrook	non-smoking
+Rose Mellian	23	North Dakota	Fish Camp	non-smoking
+Rose Rajpurkar	22	Missouri	Folsom	non-smoking
+Marius Xiao	16	California	Fort Bragg	smoking
+Ellie Xiao	49	New York	Fortuna	smoking
+Emily Jackson	21	Alaska	Foster City	non-smoking
+Anthony 't Hooft	19	North Dakota	Fountain Valley	non-smoking
+Marius Rajpurkar	22	California	Fair Oaks	smoking
+Xin Rajpurkar	32	California	Fountain Valley	smoking
+Pranav Smith	18	Alaska	Fort Bragg	non-smoking
+Ellie Mellian	28	Wyoming	Fairfield	non-smoking
+Dorothy Xiao	34	Missouri	Fairfield	smoking
+Pranav Liu	33	North Dakota	Fortuna	smoking
+John Liu	31	Wyoming	Fallbrook	non-smoking
+Rose Rajpurkar	18	North Dakota	Fortuna	non-smoking
+Anthony Smith	19	Missouri	Fowler	non-smoking
+Marius Xiao	24	New York	Fallbrook	smoking
+Dorothy Xiao	38	Wyoming	Foster City	non-smoking
+Dorothy 't Hooft	21	North Dakota	Foothill Ranch	non-smoking
+Anthony Mellian	40	California	Fountain Valley	smoking
+Emily Rajpurkar	44	North Dakota	Foothill Ranch	smoking
+Xin Liu	42	New York	Fairfield	non-smoking
+Rose Liu	16	Alaska	Fish Camp	non-smoking
+Xiaofeng Smith	25	Missouri	Fortuna	non-smoking
+Anthony Mellian	22	Alaska	Fort Bragg	non-smoking
+Anthony Liu	36	Alaska	Firebaugh	smoking
+Ellie 't Hooft	43	Alaska	Fullerton	smoking
+Anthony Xiao	42	Wyoming	Fallbrook	non-smoking
+Ellie Liu	19	Wyoming	Fair Oaks	smoking
+Dorothy Mellian	44	Missouri	Folsom	smoking
+Marius Smith	31	New York	Fresno	non-smoking
+Dorothy Liu	50	New York	Firebaugh	smoking
+John 't Hooft	33	Alaska	Fountain Valley	non-smoking
+Ellie Mellian	50	Alaska	Fresno	smoking
+Marius Rajpurkar	43	California	Fair Oaks	smoking
+Pranav Smith	16	Alaska	Fontana	non-smoking
+Dorothy Smith	26	North Dakota	Fairfield	non-smoking
+Marius Xiao	48	Alaska	Foothill Ranch	smoking
+Xin Jackson	49	Wyoming	Fort Bragg	smoking
+Dorothy Liu	41	Alaska	Fortuna	smoking
+Emily Rajpurkar	25	Wyoming	Firebaugh	non-smoking
+Emily Mellian	34	Wyoming	Firebaugh	smoking
+John Xiao	41	Missouri	Folsom	smoking
+Dorothy Rajpurkar	36	California	Fullerton	smoking
+Anthony Jackson	15	Missouri	Fresno	non-smoking
+Rose Mellian	31	Alaska	Foster City	non-smoking
+Marius Liu	47	North Dakota	Fish Camp	smoking
+Emily Jackson	49	Alaska	Fountain Valley	smoking
+Ellie Xiao	28	New York	Fort Bragg	non-smoking
+Anthony Mellian	43	New York	Fairfield	smoking
+Rose Xiao	33	Missouri	Fort Bragg	non-smoking
+Ellie Smith	22	Missouri	Fresno	non-smoking
+Xin Jackson	17	New York	Fontana	non-smoking
+Pranav Rajpurkar	19	New York	Fortuna	non-smoking
+Xiaofeng Rajpurkar	42	Missouri	Foothill Ranch	smoking
+John Rajpurkar	47	Wyoming	Fairfield	smoking
+Xin Liu	35	Wyoming	Foothill Ranch	non-smoking
+Rose Smith	22	New York	Fish Camp	non-smoking
+Xiaofeng Smith	22	Alaska	Fullerton	non-smoking
+Emily Xiao	45	Alaska	Fremont	smoking
+Marius Liu	47	Alaska	Fairfield	non-smoking
+Emily 't Hooft	47	California	Fairfield	smoking
+Pranav Smith	25	North Dakota	Fresno	non-smoking
+Dorothy Rajpurkar	28	Alaska	Fortuna	non-smoking
+Ellie Rajpurkar	28	California	Foster City	non-smoking
+Xin Smith	43	Alaska	Foster City	smoking
+John Smith	32	California	Fortuna	smoking
+Pranav Mellian	27	Missouri	Fair Oaks	non-smoking
+Marius Jackson	23	Alaska	Folsom	non-smoking
+Rose Liu	39	Missouri	Fish Camp	smoking
+Rose Jackson	25	Alaska	Folsom	non-smoking
+John Liu	46	New York	Firebaugh	smoking
+Marius Mellian	44	Alaska	Fortuna	smoking
+Pranav Smith	47	Missouri	Fortuna	smoking
+Ellie Smith	18	Wyoming	Fullerton	non-smoking
+Emily Mellian	29	North Dakota	Fontana	non-smoking
+Dorothy Rajpurkar	36	California	Fowler	non-smoking
+Xin Rajpurkar	35	Missouri	Fallbrook	smoking
+Emily Mellian	25	Missouri	Foster City	non-smoking
+Dorothy 't Hooft	25	New York	Folsom	smoking
+Xin Smith	35	Wyoming	Fallbrook	non-smoking
+Xiaofeng Rajpurkar	18	New York	Fort Bragg	non-smoking
+Marius Xiao	20	Alaska	Fillmore	non-smoking
+Ellie Rajpurkar	44	North Dakota	Fresno	smoking
+Xin Xiao	31	North Dakota	Fresno	non-smoking
+Anthony Liu	46	Wyoming	Fort Bragg	smoking
+Anthony Rajpurkar	20	North Dakota	Foothill Ranch	non-smoking
+Ellie Smith	42	North Dakota	Fontana	smoking
+Anthony Jackson	37	North Dakota	Fair Oaks	smoking
+Marius Rajpurkar	30	Alaska	Fullerton	non-smoking
+Ellie Smith	35	California	Foster City	smoking
+Xiaofeng Jackson	42	Missouri	Fowler	smoking
+Ellie Mellian	40	Wyoming	Fairfield	smoking
+Dorothy Smith	33	Missouri	Fairfield	non-smoking
+Rose Mellian	21	North Dakota	Folsom	non-smoking
+Rose Rajpurkar	24	Alaska	Fullerton	non-smoking
+Emily Rajpurkar	34	New York	Firebaugh	smoking
+Anthony Xiao	44	Wyoming	Fremont	smoking
+Ellie Smith	25	Wyoming	Foster City	non-smoking
+Marius Xiao	24	Wyoming	Foothill Ranch	non-smoking
+Pranav Smith	27	New York	Folsom	non-smoking
+Dorothy Smith	36	Wyoming	Foothill Ranch	smoking
+Marius 't Hooft	28	Wyoming	Fort Bragg	non-smoking
+Rose Xiao	21	Alaska	Foothill Ranch	non-smoking
+Xiaofeng 't Hooft	41	Wyoming	Fountain Valley	smoking
+Rose Mellian	47	Wyoming	Fullerton	smoking
+Ellie Jackson	41	California	Foothill Ranch	smoking
+Anthony Xiao	29	North Dakota	Fairfield	smoking
+Xin Jackson	32	New York	Fallbrook	non-smoking
+Emily Xiao	49	Wyoming	Foothill Ranch	smoking
+Emily Jackson	19	Missouri	Firebaugh	non-smoking
+Rose Mellian	28	Wyoming	Firebaugh	non-smoking

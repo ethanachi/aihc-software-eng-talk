@@ -1,0 +1,5 @@
+lr: 0.005
+min_age: 18
+illegal_states: ['Alaska', 'Wyoming']
+num_epochs: 5
+num_to_print: 10
